@@ -15,3 +15,8 @@ An excel file with four main tables that form a relationalstar-schema
 - Order Volume: What is the total number of orders
 - Detailed Order Matrix: Show sales, profit, discount, net sales, and all remaining fields for each order, filterable using visual slicers(Product, Date, Customer ID, and Promotion Categories)
 - Geographic Performance: Show total sales broken down by different cities.
+## TOOL USED
+- Power BI
+---
+## DASHBOARD PREVIEW
+![DAC IMAGE](IMG-20261023-WA002.jpg
