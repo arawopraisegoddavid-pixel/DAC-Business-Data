@@ -26,7 +26,7 @@ An excel file with four main tables that form a relationalstar-schema
 ## FILES IN THIS REPOSITORY
 - [DAC BUSINESS Data](Store+Data.xlsx)
 - [DAC BUSINESS DATA](Top_bottom_5_analysis_screenshot.jpg)
-- [DAC BUSINESS DATA](market_overview)
+- [DAC BUSINESS DATA](market_overview.jpg)
 - README.md
   ---
   ## CONCLUSION
