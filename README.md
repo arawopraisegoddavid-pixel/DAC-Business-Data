@@ -19,4 +19,15 @@ An excel file with four main tables that form a relationalstar-schema
 - Power BI
 ---
 ## DASHBOARD PREVIEW
-![DAC IMAGE](IMG-20261023-WA002.jpg
+![DAC IMAGE](Top_bottom_5_analysis_screenshot.jpg)
+![DAC_IMAGE](market_overview.jpg)
+
+---
+## FILES IN THIS REPOSITORY
+- [DAC BUSINESS Data](Store+Data.xlsx)
+- [DAC BUSINESS DATA](Top_bottom_5_analysis_screenshot.jpg)
+- [DAC BUSINESS DATA](market_overview)
+- README.md
+  ---
+  ## CONCLUSION
+  This project helps the company identify how sales trends vary over time and also shows the relationship between sales made and profit. The company would also be able to indentify the top/bottom 5 performers by sales, profit, and quantity sold.
